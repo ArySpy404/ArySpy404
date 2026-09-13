@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Ary 👋
 
-<!--
-**ArySpy404/ArySpy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who likes building things, breaking things, and figuring out how they work.
 
-Here are some ideas to get you started:
+### 🧭 What I'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚛️ Frontend development & React
+* 💻 JavaScript & web technologies
+* 🔐 Cybersecurity
+* 🧠 Computer Science
+* 🚀 Building projects and learning by doing
+
+### 🔨 Currently building
+
+**Rahano** — a project focused on helping people find a learning path that actually fits them.
+
+> I don't just want to use things.
+> I want to understand how they work.
+
+### 🛠️ Tech I'm working with
+
+`JavaScript` · `React` · `HTML` · `CSS` · `React Router` . `Python`
+
+### 🔐 Cybersecurity
+
+Currently exploring cybersecurity and learning how systems work — from the web to the network layer.
+
+Still learning. Still breaking things.
+Hopefully breaking them legally. :)
+
+### 🌱 What's next?
+
+More projects.
+More experiments.
+More things I probably shouldn't have started at 2 AM.
+
+---
+
+<p align="center">
+  <i>Build. Break. Understand. Repeat.</i>
+</p>

@@ -1,4 +1,4 @@
-# Hey, I'm Armita Mohammdi 👋
+# Hey, I'm Ary404 👋
 
 I'm a developer who likes building things, breaking things, and figuring out how they work.
 

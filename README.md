@@ -17,9 +17,9 @@ I'm a developer who likes building things, breaking things, and figuring out how
 > I don't just want to use things.
 > I want to understand how they work.
 
-### 🛠️ Tech I'm working with
+### 🛠️ Tech Stack
 
-`JavaScript` · `React` · `HTML` · `CSS` · `React Router` . `Python`
+[![My Skills](https://skillicons.dev/icons?i=Python,js,react,html,css,git)](https://skillicons.dev)
 
 ### 🔐 Cybersecurity
 

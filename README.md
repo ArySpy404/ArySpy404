@@ -1,4 +1,4 @@
-# Hey, I'm Ary 👋
+# Hey, I'm Atmita Mohammdi 👋
 
 I'm a developer who likes building things, breaking things, and figuring out how they work.
 

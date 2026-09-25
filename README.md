@@ -19,7 +19,7 @@ I'm a developer who likes building things, breaking things, and figuring out how
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,nodejs,express,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,html,css,git)](https://skillicons.dev)
 
 ### 🔐 Cybersecurity
 
